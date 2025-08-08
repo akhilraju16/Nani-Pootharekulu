@@ -21,7 +21,7 @@ This project is a tribute to India's traditional sweet — *Pootharekulu*, prese
 ---
 
 ## 📸 Screenshots
-(Add a screenshot of your website here)
+
 
 ---
 
