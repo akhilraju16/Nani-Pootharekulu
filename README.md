@@ -1,4 +1,4 @@
-# Nani-Pootharekulu 🍬
+# Nani-Pootharekulu 
 
 A modern and aesthetic website clone inspired by Gucci Osteria, rebuilt using HTML, CSS, and JavaScript.  
 This project is a tribute to India's traditional sweet — *Pootharekulu*, presented in a luxury brand-style interface.
